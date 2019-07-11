@@ -11,7 +11,7 @@ var config = {
 	east : -70.95,
 	//Mapbox access token & key for basemap
 	mapboxAccessToken :              
-            'pk.eyJ1IjoicmVtb3RlZ2VudHJpZnkiLCJhIjoiY2lnanJzMjJpMDA1dnYxbHo5MTZtdGZsYSJ9.gLE8d40zmDAtMSSZyd2h1Q',
+            'pk.eyJ1IjoiYW5kaXRhYmluYXMiLCJhIjoiY2plejI3aHp3MDV3MjMzcW9ydXl2bHNmZiJ9.9h6j7BbkM-PUtK0zaZ1iUg',
     //Change to your username, insert function on cartodb, and cartodb tablename (see also /cartoDB_functions)
 	cartoDBusername : 'anditabinas',
 	cartoDBinsertfunction : 'crowdsourcing_p',
